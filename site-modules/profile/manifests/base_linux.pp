@@ -32,8 +32,8 @@ class profile::base_linux {
     require => File['/root/.ssh'],
   }
 
- package { 'binclock':
-  ensure => present,
- }
+  package { 'binclock':
+   ensure => present,
+  }
 
 }
