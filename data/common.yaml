@@ -6,4 +6,4 @@ base_linux::linux_sw_pkg:
   - 'htop'
   - 'sysstat'
   - 'vim'
-  base_linux::root_ssh_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQDSdZBVWxe7SCak3ZH7FQ1Fv9+XjNu8Qzk+iJmPxw/l/XzmK1SN6zYBbBM+HTm/jFzujQklIoQ0e225q9AoOOnADLOALQ2vBu/Ktmdl5F/Xs07ofullJqRtbOco4pfMJBTgRfLlTiJgv3mdvQPFgwdwlw+Ltu/AkdRX4RQzSscJ/cVaZmvQWB8B8M5yJjDugaW2fSnupTKEpvh1yH4sGObUHwhg4hy8fSRr6fw45KxJqev+U/sQ9uIh9Sk/tdy/sZqpogb0XIgmznijg/iQ5Zw+c+Quh1RtUCrWFTKqO7hw8QEmIcNFXvWu7z/ggtSboCsbxctNAYbny+YsAZMwMs+j'
+base_linux::root_ssh_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQDSdZBVWxe7SCak3ZH7FQ1Fv9+XjNu8Qzk+iJmPxw/l/XzmK1SN6zYBbBM+HTm/jFzujQklIoQ0e225q9AoOOnADLOALQ2vBu/Ktmdl5F/Xs07ofullJqRtbOco4pfMJBTgRfLlTiJgv3mdvQPFgwdwlw+Ltu/AkdRX4RQzSscJ/cVaZmvQWB8B8M5yJjDugaW2fSnupTKEpvh1yH4sGObUHwhg4hy8fSRr6fw45KxJqev+U/sQ9uIh9Sk/tdy/sZqpogb0XIgmznijg/iQ5Zw+c+Quh1RtUCrWFTKqO7hw8QEmIcNFXvWu7z/ggtSboCsbxctNAYbny+YsAZMwMs+j'
