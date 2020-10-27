@@ -6,4 +6,4 @@ base_linux::linux_sw_pkg:
   - 'htop'
   - 'sysstat'
   - 'vim'
-base_linux::root_ssh_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQDSdZBVWxe7SCak3ZH7FQ1Fv9+XjNu8Qzk+iJmPxw/l/XzmK1SN6zYBbBM+HTm/jFzujQklIoQ0e225q9AoOOnADLOALQ2vBu/Ktmdl5F/Xs07ofullJqRtbOco4pfMJBTgRfLlTiJgv3mdvQPFgwdwlw+Ltu/AkdRX4RQzSscJ/cVaZmvQWB8B8M5yJjDugaW2fSnupTKEpvh1yH4sGObUHwhg4hy8fSRr6fw45KxJqev+U/sQ9uIh9Sk/tdy/sZqpogb0XIgmznijg/iQ5Zw+c+Quh1RtUCrWFTKqO7hw8QEmIcNFXvWu7z/ggtSboCsbxctNAYbny+YsAZMwMs+j'
+base_linux::root_ssh_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQDMcoRtr18QkqQdwSxH4Haboh2PFUY9w5H9xVyyzbgrDASAGGvE26D1wqG+1fWnMZkuxEwWV6uLNBarSHLS9zRdVTPaSqvlUzolEvCfP/enQ4kI6nzx/JfTr6K5Nl7mJtWTpMdnhUs7nO3sZyHJJgnH8Ouu053HCgXhW3BqYRpfwP766K0dsqsd/txRyvdYU6izCPKpwtRMO5otusBIR4x5H1PRReZ0OcohPErP+TJiKyxlH2Wrprr8b/Hqe8pRn5I7PM24xxGvH9Qh30tgUeRKLsO7fRX6cDXXMa/KIU4WRoab+WXIw/9Ra2f7+YI79t2ltRBRBq69Sk+GRkesI8+/'
